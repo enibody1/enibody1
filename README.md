@@ -1,34 +1,89 @@
-# 👋 Hello, I'm Uchendu Favour (enibody1)
+# Hello, I'm Uchendu Favour
 
-🎯 **Cybersecurity Analyst | Ethical Hacker | Python Learner | Web3 & Crypto Enthusiast**
+**Cybersecurity Analyst | Python Learner | SOC-Analyst | Pen-tester**
 
-Welcome! I'm passionate about cybersecurity, ethical hacking, and continuous learning. This GitHub page showcases my journey through hands-on projects, learning exercises, and research in the cyber domain.
+I am a cybersecurity-focused professional with hands-on experience in vulnerability analysis, threat intelligence, ransomware simulation, network security, and continuous learning. This GitHub page showcases my journey through hands-on projects, learning exercises, and research in the cyber domain. 
 
----
-
-## 🔐 Some Of My Cybersecurity Projects & Write-Ups
-
-### 🧠 [RSP-Evil-Team](https://github.com/enibody1/RSP-Evil-Team)
-A Python project showcasing basic scripting for information security training and testing, including reconnaissance and payload creation practices.
-
-### 🔐 [OverTheWire CTF](https://github.com/enibody1/overthewire-CTF)
-Walkthroughs and solutions for OverTheWire wargames, focused on Linux command-line, privilege escalation, and secure scripting.
-
-### 🖥️ [System Hacking](https://github.com/enibody1/systemhacking)
-A compilation of techniques for system exploitation, privilege escalation, and remote access tactics used in ethical hacking scenarios.
-
-### 💣 [Exploitation and Post-Exploitation](https://github.com/enibody1/Exploitation-and-Post-Exploitation)
-Includes strategies and tools for exploiting vulnerabilities and performing post-access activities like persistence, enumeration, and lateral movement.
-
-### 🐧 [Linux Commands](https://github.com/enibody1/Linux_commands)
-A curated reference of essential Unix/Linux commands for cybersecurity professionals and system administrators (forked for personal use and contributions).
-
-### 🕵️ [Steghide Task](https://github.com/enibody1/steghide-task)
-A basic challenge involving steganography—hiding and extracting information within files, often used in forensic and red-team activities.
+I enjoy analyzing real-world threats, building security tools, and understanding how attackers operate — with a strong focus on detection and defense.
 
 ---
 
-## 📫 Connect with Me
+## Featured Projects
+
+### 🔍 Log4j Vulnerability Advisory Project
+- Analyzed CVE-2021-44228 (Log4Shell)
+- Simulated SOC workflow: threat intake → analysis → risk assessment → response
+- Developed security advisory communication
+
+🔗 https://github.com/enibody1/Log4j-Vulnerability-Advisory-Project.git
+
+---
+
+### 🛡️ APT34 Threat Intelligence Report
+- Analyzed APT34 (OilRig) attack patterns
+- Mapped techniques using MITRE ATT&CK
+- Identified IOCs and defensive strategies
+
+🔗 https://github.com/enibody1/APT34-Threat-Intelligence-Report
+
+---
+
+### 💣 Ransomware Simulation & Detection Project
+- Simulated ransomware attack lifecycle (encryption, persistence, user impact)
+- Built detection logic for identifying suspicious behavior
+- Demonstrates both red team and blue team perspectives
+
+🔗 https://github.com/enibody1/Ransomware-Simulation-And-Detection-Project
+
+---
+
+### ⚙️ MAC Address Changer (Python Tool)
+- Developed a CLI tool to modify and restore MAC addresses
+- Demonstrates networking and system-level scripting skills
+
+🔗 https://github.com/enibody1/macchanger
+
+---
+
+## Technical Skills
+
+**Security Operations:**  
+- Vulnerability Assessment  
+- Incident Response  
+- Threat Detection  
+
+**Tools & Technologies:**  
+- Wireshark, Nmap, Metasploit  
+- Burp Suite, John the Ripper  
+- Kali Linux, Cisco Packet Tracer  
+
+**Platforms:**  
+- TryHackMe, HackTheBox, CyberTalents  
+
+**Programming:**  
+- Python, HTML, C++  
+
+---
+
+## What I'm Focused On
+
+- Building real-world SOC analysis skills  
+- Improving threat detection techniques  
+- Contributing to cybersecurity projects  
+- Securing internship / entry-level cybersecurity roles  
+
+---
+
+## Let's Connect
+
+- LinkedIn: https://www.linkedin.com/in/favour-uchendu
+- Email: uchendufavour@gmail.com
+
+---
+
+## Fun Fact
+
+I enjoy breaking down complex cyber attacks and turning them into actionable defense strategies.
 
 - **LinkedIn**: [favour-uchendu](https://www.linkedin.com/in/favour-uchendu)
 - **X (Twitter)**: [@_urfaverit](https://x.com/_urfaverit)
