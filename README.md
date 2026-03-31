@@ -55,7 +55,8 @@ I enjoy analyzing real-world threats, building security tools, and understanding
 **Tools & Technologies:**  
 - Wireshark, Nmap, Metasploit  
 - Burp Suite, John the Ripper  
-- Kali Linux, Cisco Packet Tracer  
+- Kali Linux, Cisco Packet Tracer
+- Splunk, Gophish, Ngrok
 
 **Platforms:**  
 - TryHackMe, HackTheBox, CyberTalents  
